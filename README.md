@@ -1,2 +1,3 @@
 # helloworld
-Git for education purpose 
+ALTER TABLE helloworld
+ADD hello_world varchar(30)
